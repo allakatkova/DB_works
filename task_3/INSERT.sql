@@ -112,6 +112,8 @@ INSERT INTO genres_singers(genre_id, singer_id) VALUES (4,5);
 
 INSERT INTO genres_singers(genre_id, singer_id) VALUES (4,6);
 
+INSERT INTO genres_singers(genre_id, singer_id) VALUES (1,6);
+
 INSERT INTO genres_singers(genre_id, singer_id) VALUES (1,7);
 
 INSERT INTO genres_singers(genre_id, singer_id) VALUES (3,8);
