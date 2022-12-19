@@ -6,7 +6,8 @@ SELECT NAME_ALBUM, YEAR_ALBUM FROM ALBUMS
 --    название и продолжительность самого длительного трека;
 
 SELECT NAME_TRACK, DURATION FROM TRACKS
-	WHERE DURATION = (SELECT MAX(DURATION) FROM TRACKS)
+	ORDER BY DURATION DESC 
+	LIMIT 1;
 
 --    название треков, продолжительность которых не менее 3,5 минуты;
 
