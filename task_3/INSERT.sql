@@ -69,6 +69,7 @@ INSERT INTO tracks(name_track, duration, album_id) VALUES ('Жара', 256, 7);
 
 INSERT INTO tracks(name_track, duration, album_id) VALUES ('Россия', 250, 8);
 INSERT INTO tracks(name_track, duration, album_id) VALUES ('Олимпиада 80', 309, 8);
+INSERT INTO tracks(name_track, duration, album_id) VALUES ('Жульбаны', 282, 8);
 
 INSERT INTO tracks(name_track, duration, album_id) VALUES ('Электричка', 352, 9);
 INSERT INTO tracks(name_track, duration, album_id) VALUES ('Троллейбус', 195, 9);
